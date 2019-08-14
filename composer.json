@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Magebuzz_Simple_Faq",
+    "type": "magento-module",
+    "license": "Open-Software-License-(OSL)",
+    "homepage": "",
+    "description": "Simple FAQ extension for Magento Community",
+    "authors": [
+    {
+        "name": "Magebuzz",
+        "email": "magebuzz@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
