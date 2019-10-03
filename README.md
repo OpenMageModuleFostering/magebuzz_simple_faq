@@ -1,3 +1,5 @@
+
+
 ## Original Package Description
 
 Simple FAQ extension for Magento Community
